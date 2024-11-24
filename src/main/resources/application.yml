@@ -1,0 +1,6 @@
+aws:
+  s3:
+    bucket-name: your-bucket-name
+    region: ap-northeast-2
+    access-key: your-access-key
+    secret-key: your-secret-key
