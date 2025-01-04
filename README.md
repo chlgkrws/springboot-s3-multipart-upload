@@ -1,11 +1,11 @@
 # S3 Multipart Upload Example
 
-A demonstration of S3 Multipart Upload implementation using Spring WebFlux and AWS SDK.
+A demonstration of S3 Multipart Upload implementation using AWS SDK.
 
 ## Tech Stack
 
 - Kotlin
-- Spring Boot WebFlux
+- Spring Boot
 - AWS SDK v2
 - AWS S3
 
